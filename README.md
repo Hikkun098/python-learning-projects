@@ -1,2 +1,28 @@
-# python-learning-projects
-python-learning-projects
+# Python Learning Projects
+
+## 概要
+- Python学習のための個人的なリポジトリ
+- 基礎から応用まで、段階的な学習記録
+- 業務効率化とデータ分析スキル習得が目標
+
+## 背景
+- インフラエンジニアからPython開発への挑戦
+- 業務効率化・データ分析スキルの習得
+- アウトプット重視の学習アプローチ
+
+## 目標
+- Pythonスキルの再習得と向上
+- 実践的な業務効率化ツールの開発
+- 学習内容のZenn記事化
+
+## 学習目標
+- Python基礎文法の復習
+- データ加工・分析手法の習得
+- 業務効率化ツールの作成
+
+## ディレクトリ構成
+```python
+/basic-syntax        # 基礎文法の練習
+/data-processing    # データ加工演習
+/automation-tools   # 業務効率化ツール
+/data-analysis     # データ分析プロジェクト
